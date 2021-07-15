@@ -1,6 +1,14 @@
 # Unit 4 Homework Assignment: A Whale Off the Port(folio)
+<hr>
 
+## **NOTE:**  Please reference the <a href="https://github.com/eriklarson33/HW_4-Whale_of_a_Portfolio/blob/main/Starter_Code/whale_analysis.ipynb">whale_analysis.ipynb</a> file.  
+### The whale_analysis_DRAFT.ipynb file is an earlier *DRAFT*.
+<br>
+<hr>
+
+## Homework Assigment:
 ![Portfolio Analysis](Images/portfolio-analysis.png)
+
 
 ## Background
 
